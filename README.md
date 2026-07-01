@@ -1,0 +1,2 @@
+# GitExcAiDevCourse
+Excerise for github
