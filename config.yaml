@@ -2,7 +2,7 @@ model:
   name: resnet18
   learning_rate: 0.001
   batch_size: 32
-  epochs: 20
+  epochs: 30
   optimizer: adam
   weight_decay: 0.0001
 
